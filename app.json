@@ -1,7 +1,7 @@
 {
-	"name": "ᕼᗩᖇꇙᕼᑌˣᴰ",
+	"name": "⛦⃕͜⍣⃟🆇🆈🆃🆁🅰༆≛⃝❂͜͡Z̷N̷༏⃪͢",
 	"description": "A telegram voice chat music player bot by The-Hellbot, coded in python using Pyrogram and PyTgCalls",
-	"logo": "https://te.legra.ph/file/ae14f293ef4a9352c5248.jpg",
+	"logo": "https://telegra.ph/file/f1f926e952bb9f17f4fb6.jpg",
 	"keywords": [
 		"telegram",
 		"musicbot",
@@ -14,7 +14,7 @@
 		"music",
 		"hellbot"
 	],
-	"repository": "https://github.com/harshdemon/XDMUSIC/",
+	"repository": "https://github.com/Xytra-zn/MUSIC/",
 	"env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
@@ -42,7 +42,7 @@
 		},
         "OWNER_ID": {
             "description": "Your telegram user id.",
-            "value": "6074152428"
+            "value": "5265109324"
         },
         "HELLBOT_SESSION": {
             "description": "Paste pyrogram session string.",
