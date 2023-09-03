@@ -16,9 +16,9 @@ class Config(object):
     OWNER_ID = getenv("OWNER_ID", "")                  # enter your id here
 
     # optional config variables
-    BLACK_IMG = getenv("BLACK_IMG", "https://telegra.ph/file/a1b6d600221a366ff3cc6.jpg")        # black image for progress
+    BLACK_IMG = getenv("BLACK_IMG", "https://telegra.ph/file/262f2994ade1d8a65710f.jpg")        # black image for progress
     BOT_NAME = getenv("BOT_NAME", "\x40\x4d\x75\x73\x69\x63\x5f\x48\x65\x6c\x6c\x42\x6f\x74")   # dont put fancy texts here.
-    BOT_PIC = getenv("BOT_PIC", "https://telegra.ph/file/ee25eb429b8af4b53a0b7.jpg")           # put direct link to image here
+    BOT_PIC = getenv("BOT_PIC", "https://telegra.ph/file/f16d20f6561be38ec3c5c.jpg")           # put direct link to image here
     LEADERBOARD_TIME = getenv("LEADERBOARD_TIME", "3:00")   # time in 24hr format for leaderboard broadcast
     LYRICS_API = getenv("LYRICS_API", None)             # from https://docs.genius.com/
     MAX_FAVORITES = int(getenv("MAX_FAVORITES", 30))    # max number of favorite tracks
