@@ -204,15 +204,15 @@ class MakeButtons:
     def source_markup(self):
         buttons = [
             [
-                self.ikb(text="Github ❤️", url="https://github.com/harshdemon/XDMUSIC"),
-                self.ikb(text="Repo 📦", url="https://github.com/harshdemon/XDMUSIC"),
+                self.ikb(text="Github ❤️", url="https://github.com/Xytra-zn/MUSIC"),
+                self.ikb(text="Repo 📦", url="https://github.com/Xytra-zn/MUSIC"),
             ],
             [
-                self.ikb(text="OWNER { ❤️ }", url="https://t.me/Harshu_XD1"),
+                self.ikb(text="OWNER { ❤️ }", url="https://t.me/Fromarjuna"),
             ],
             [
-                self.ikb(text="Support 🎙️", url="https://t.me/Wrostdemon"),
-                self.ikb(text="Updates 📣", url="https://t.me/HarshuXDBots"),
+                self.ikb(text="Support 🎙️", url="https://t.me/+9xv6K5FUIAs0Mzk9"),
+                self.ikb(text="Updates 📣", url="https://t.me/Xytra_updatebot"),
             ],
             [
                 self.ikb(text="🔙", callback_data="help|start"),
